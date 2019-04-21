@@ -12,7 +12,7 @@
                 <artifactId>maven-dependency-plugin</artifactId>
               <version>2.6</version>
                       <configuration>
-                        <failOnMissingWebXml>false</failOnMissingXml>
+                        <failOnMissingWebXml>false</failOnMissingWebXml>
                       </configuration>
                  
             </plugin>
